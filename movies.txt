@@ -1,1 +1,10 @@
+Action/Adventure|Movies/action.txt
+Comedy|Movies/comedy.txt
+Drama|Movies/drama.txt
+Family|Movies/family.txt
+Holiday|Movies/holiday.txt
+LGBTQ+|Movies/lgbtq.txt
+Musicals|Movies/musicals.txt
+Romance|Movies/romance.txt
 Sci-Fi|Movies/Sci-Fi.txt
+Thriller/Horror|Movies/thriller.txt
