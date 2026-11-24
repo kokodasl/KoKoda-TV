@@ -1,0 +1,5 @@
+Season 1|Television/Animaniacs/season_01.txt
+Season 2|Television/Animaniacs/season_02.txt
+Season 3|Television/Animaniacs/season_03.txt
+Season 4|Television/Animaniacs/season_04.txt
+Season 5|Television/Animaniacs/season_05.txt
