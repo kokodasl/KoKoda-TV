@@ -1,1 +1,12 @@
 ALF|Television/ALF/seasons.txt
+Animaniacts|Television/Animaniacs/seasons.txt
+Beetlejuice|Television/Beetlejuice/seasons.txt
+Bill Nye The Science Guy|Television/BillNye/seasons.txt
+Family Matters|Television/FamilyMatters/seasons.txt
+Godzilla|Television/Godzilla/seasons.txt
+Life Goes On|Television/LifeGoesOn/seasons.txt
+Punky Brewster|Television/PunkyBrewster/seasons.txt
+Reaper|Television/Reaper/seasons.txt
+Saved By The Bell|Television/SavedByTheBell/seasons.txt
+Salute Your Shorts|Television/SaluteYourShorts/seasons.txt
+Star Trek|Television/StarTrek/seasons.txt
