@@ -1,0 +1,9 @@
+{
+  "12 Monkeys": {"year":1995,"cast":"Bruce Willis, Madeleine Stowe, Brad Pitt","description":"A prisoner travels into the past to investigate the origins of a devastating pandemic."},
+  "Aliens": {"year":1986,"cast":"Sigourney Weaver, Michael Biehn, Carrie Henn","description":"Ripley returns to a distant colony with a team of marines to confront a deadly extraterrestrial threat."},
+  "Free Guy": {"year":2021,"cast":"Ryan Reynolds, Jodie Comer","description":"A video game background character discovers his world is artificial and decides to become its hero."},
+  "Frequency": {"year":2000,"cast":"Dennis Quaid, Jim Caviezel","description":"A detective discovers a radio connection to his father thirty years in the past, changing both their lives."},
+  "Passengers": {"year":2016,"cast":"Jennifer Lawrence, Chris Pratt","description":"Two passengers awaken prematurely aboard a spacecraft traveling to a distant colony."},
+  "The Martian": {"year":2015,"cast":"Matt Damon, Jessica Chastain","description":"An astronaut stranded on Mars must use science and ingenuity to survive until rescue arrives."},
+  "ALF": {"year":1986,"genre":"Comedy","cast":"Paul Fusco, Max Wright, Anne Schedeen","description":"A wisecracking alien crash-lands in a suburban family's garage and turns their everyday lives upside down."}
+}
