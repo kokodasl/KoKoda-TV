@@ -1,0 +1,9 @@
+8
+S3 E1|https://archive.org/download/beetlejuice-1989-complete-animated-series/Beetlejuice%20S03E01%20%28Mom%27s%20Best%20Friend%29.mp4
+S3 E2|https://archive.org/download/beetlejuice-1989-complete-animated-series/Beetlejuice%20S03E02%20%28Back%20to%20School%20Ghoul%29.mp4
+S3 E3|https://archive.org/download/beetlejuice-1989-complete-animated-series/Beetlejuice%20S03E03%20%28Doomie%27s%20Romance%29.mp4
+S3 E4|https://archive.org/download/beetlejuice-1989-complete-animated-series/Beetlejuice%20S03E04%20%28Ghost%20to%20Ghost%29.mp4
+S3 E5|https://archive.org/download/beetlejuice-1989-complete-animated-series/Beetlejuice%20S03E05%20%28Spitting%20Image%20-%20Awards%20to%20the%20Wise%29.mp4
+S3 E6|https://archive.org/download/beetlejuice-1989-complete-animated-series/Beetlejuice%20S03E06%20%28The%20Prince%20of%20Rock%20and%20Roll%29.mp4
+S3 E7|https://archive.org/download/beetlejuice-1989-complete-animated-series/Beetlejuice%20S03E07%20%28A%20Ghoul%20and%20His%20Money%20-%20Brides%20of%20Funkenstein%29.mp4
+S3 E8|https://archive.org/download/beetlejuice-1989-complete-animated-series/Beetlejuice%20S03E08%20%28Beetledude%20-%20The%20Farmer%20in%20the%20Smell%29.mp4
