@@ -1,5 +1,4 @@
 ALF|Television/ALF/seasons.txt
-Animaniacs|Television/Animaniacs/seasons.txt
 Beetlejuice|Television/Beetlejuice/seasons.txt
 Bill Nye The Science Guy|Television/BillNye/seasons.txt
 Family Matters|Television/FamilyMatters/seasons.txt
