@@ -1,0 +1,5 @@
+Season 1|Television/BillNye/season_01.txt
+Season 2|Television/BillNye/season_02.txt
+Season 3|Television/BillNye/season_03.txt
+Season 4|Television/BillNye/season_04.txt
+Season 5|Television/BillNye/season_05.txt
