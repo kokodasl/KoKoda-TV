@@ -1,0 +1,10 @@
+25
+S1 E1|https://archive.org/download/ALF-The-Complete-Series/Alf/Season%2001/ALF%20-%20S01E01%20-%20A.L.F%20SDTV.mp4
+S1 E2|https://archive.org/download/ALF-The-Complete-Series/Alf/Season%2001/ALF%20-%20S01E02%20-%20Strangers%20in%20the%20Night%20SDTV.mp4
+S1 E3|https://archive.org/download/ALF-The-Complete-Series/Alf/Season%2001/ALF%20-%20S01E03%20-%20Looking%20for%20Lucky%20SDTV.mp4
+S1 E4|https://archive.org/download/ALF-The-Complete-Series/Alf/Season%2001/ALF%20-%20S01E04%20-%20Pennsylvania%206-5000%20SDTV.mp4
+S1 E5|https://archive.org/download/ALF-The-Complete-Series/Alf/Season%2001/ALF%20-%20S01E05%20-%20Keepin%27%20the%20Faith%20SDTV.mp4
+S1 E6|https://archive.org/download/ALF-The-Complete-Series/Alf/Season%2001/ALF%20-%20S01E06%20-%20For%20Your%20Eyes%20Only%20SDTV.mp4
+S1 E7|https://archive.org/download/ALF-The-Complete-Series/Alf/Season%2001/ALF%20-%20S01E07%20-%20Help%20Me%2C%20Rhonda%20SDTV.mp4
+S1 E8|https://archive.org/download/ALF-The-Complete-Series/Alf/Season%2001/ALF%20-%20S01E08%20-%20Don%27t%20It%20Make%20My%20Brown%20Eyes%20Blue%20SDTV.mp4
+S1 E9|https://archive.org/download/ALF-The-Complete-Series/Alf/Season%2001/ALF%20-%20S01E09%20-%20Jump%20SDTV.mp4
