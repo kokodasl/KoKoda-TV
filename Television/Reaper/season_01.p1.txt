@@ -1,0 +1,10 @@
+18
+S01 E01|https://archive.org/download/reaper-complete/Reaper_S01E01.Pilot.mp4
+S01 E02|https://archive.org/download/reaper-complete/Reaper_S01E02.Charged.mp4
+S01 E03|https://archive.org/download/reaper-complete/Reaper_S01E03.All_Mine.mp4
+S01 E04|https://archive.org/download/reaper-complete/Reaper_S01E04.Magic.mp4
+S01 E05|https://archive.org/download/reaper-complete/Reaper_S01E05.What_About_Blob.mp4
+S01 E06|https://archive.org/download/reaper-complete/Reaper_S01E06.Leon.mp4
+S01 E07|https://archive.org/download/reaper-complete/Reaper_S01E07.Love_Bullets_and_Blacktop.mp4
+S01 E08|https://archive.org/download/reaper-complete/Reaper_S01E08.The_Cop.mp4
+S01 E09|https://archive.org/download/reaper-complete/Reaper_S01E09.Ashes_To_Ashes.mp4

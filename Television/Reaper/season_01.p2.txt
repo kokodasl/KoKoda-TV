@@ -1,0 +1,10 @@
+18
+S01 E10|https://archive.org/download/reaper-complete/Reaper_S01E10.Cash_Out.mp4
+S01 E11|https://archive.org/download/reaper-complete/Reaper_S01E11.Hungry_For_Fame.mp4
+S01 E12|https://archive.org/download/reaper-complete/Reaper_S01E12.Unseen.mp4
+S01 E13|https://archive.org/download/reaper-complete/Reaper_S01E13.Acid_Queen.mp4
+S01 E14|https://archive.org/download/reaper-complete/Reaper_S01E14.Rebellion.mp4
+S01 E15|https://archive.org/download/reaper-complete/Reaper_S01E15.Coming_To_Grips.mp4
+S01 E16|https://archive.org/download/reaper-complete/Reaper_S01E16.Greg_Schmeg.mp4
+S01 E17|https://archive.org/download/reaper-complete/Reaper_S01E17.The_Leak.mp4
+S01 E18|https://archive.org/download/reaper-complete/Reaper_S01E18.Cancun.mp4
