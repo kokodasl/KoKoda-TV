@@ -1,0 +1,10 @@
+20
+Planets|https://archive.org/download/billnyethescienceguythecompleteseries-07-28-2021/41%20Planets.mp4
+Pressure|https://archive.org/download/billnyethescienceguythecompleteseries-07-28-2021/42%20Pressure.mp4
+Plants|https://archive.org/download/billnyethescienceguythecompleteseries-07-28-2021/43%20Plants.mp4
+Rocks & Soil|https://archive.org/download/billnyethescienceguythecompleteseries-07-28-2021/44%20Rocks%20%26%20Soil.mp4
+Energy|https://archive.org/download/billnyethescienceguythecompleteseries-07-28-2021/45%20Energy.mp4
+Evolution|https://archive.org/download/billnyethescienceguythecompleteseries-07-28-2021/46%20Evolution.mp4
+Water Cycle|https://archive.org/download/billnyethescienceguythecompleteseries-07-28-2021/47%20Water%20Cycle.mp4
+Friction|https://archive.org/download/billnyethescienceguythecompleteseries-07-28-2021/48%20Friction.mp4
+Germs|https://archive.org/download/billnyethescienceguythecompleteseries-07-28-2021/49%20Germs.mp4

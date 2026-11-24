@@ -1,0 +1,10 @@
+20
+Heat|https://archive.org/download/billnyethescienceguythecompleteseries-07-28-2021/30%20Heat.mp4
+Insects|https://archive.org/download/billnyethescienceguythecompleteseries-07-28-2021/31%20Insects.mp4
+Balance|https://archive.org/download/billnyethescienceguythecompleteseries-07-28-2021/32%20Balance.mp4
+Sun|https://archive.org/download/billnyethescienceguythecompleteseries-07-28-2021/33%20Sun.mp4
+Brain|https://archive.org/download/billnyethescienceguythecompleteseries-07-28-2021/34%20Brain.mp4
+Forest|https://archive.org/download/billnyethescienceguythecompleteseries-07-28-2021/35%20Forest.mp4
+Communication|https://archive.org/download/billnyethescienceguythecompleteseries-07-28-2021/36%20Communication.mp4
+Momentum|https://archive.org/download/billnyethescienceguythecompleteseries-07-28-2021/37%20Momentum.mp4
+Reptiles|https://archive.org/download/billnyethescienceguythecompleteseries-07-28-2021/38%20Reptiles.mp4
