@@ -1,9 +1,579 @@
 {
-  "12 Monkeys": {"year":1995,"cast":"Bruce Willis, Madeleine Stowe, Brad Pitt","description":"A prisoner travels into the past to investigate the origins of a devastating pandemic."},
-  "Aliens": {"year":1986,"cast":"Sigourney Weaver, Michael Biehn, Carrie Henn","description":"Ripley returns to a distant colony with a team of marines to confront a deadly extraterrestrial threat."},
-  "Free Guy": {"year":2021,"cast":"Ryan Reynolds, Jodie Comer","description":"A video game background character discovers his world is artificial and decides to become its hero."},
-  "Frequency": {"year":2000,"cast":"Dennis Quaid, Jim Caviezel","description":"A detective discovers a radio connection to his father thirty years in the past, changing both their lives."},
-  "Passengers": {"year":2016,"cast":"Jennifer Lawrence, Chris Pratt","description":"Two passengers awaken prematurely aboard a spacecraft traveling to a distant colony."},
-  "The Martian": {"year":2015,"cast":"Matt Damon, Jessica Chastain","description":"An astronaut stranded on Mars must use science and ingenuity to survive until rescue arrives."},
-  "ALF": {"year":1986,"genre":"Comedy","cast":"Paul Fusco, Max Wright, Anne Schedeen","description":"A wisecracking alien crash-lands in a suburban family's garage and turns their everyday lives upside down."}
+  "12 Monkeys": {
+    "year": 1995,
+    "cast": "Bruce Willis, Madeleine Stowe, Brad Pitt",
+    "description": "A prisoner travels into the past to investigate the origins of a devastating pandemic."
+  },
+  "Aliens": {
+    "year": 1986,
+    "cast": "Sigourney Weaver, Michael Biehn, Carrie Henn",
+    "description": "Ripley returns to a distant colony with a team of marines to confront a deadly extraterrestrial threat.",
+    "poster": "https://image.tmdb.org/t/p/w342/r1x5JGpyqZU8PYhbs4UcrO1Xb6x.jpg"
+  },
+  "Free Guy": {
+    "year": 2021,
+    "cast": "Ryan Reynolds, Jodie Comer",
+    "description": "A video game background character discovers his world is artificial and decides to become its hero.",
+    "poster": "https://image.tmdb.org/t/p/w342/xmbU4JTUm8rsdtn7Y3Fcm30GpeT.jpg"
+  },
+  "Frequency": {
+    "year": 2000,
+    "cast": "Dennis Quaid, Jim Caviezel",
+    "description": "A detective discovers a radio connection to his father thirty years in the past, changing both their lives."
+  },
+  "Passengers": {
+    "year": 2016,
+    "cast": "Jennifer Lawrence, Chris Pratt",
+    "description": "Two passengers awaken prematurely aboard a spacecraft traveling to a distant colony."
+  },
+  "The Martian": {
+    "year": 2015,
+    "cast": "Matt Damon, Jessica Chastain",
+    "description": "An astronaut stranded on Mars must use science and ingenuity to survive until rescue arrives.",
+    "poster": "https://image.tmdb.org/t/p/w342/5BHuvQ6p9kfc091Z8RiFNhCwL4b.jpg"
+  },
+  "Armageddon": {
+    "year": 1998,
+    "cast": "Bruce Willis, Ben Affleck, Liv Tyler",
+    "description": "Oil drillers are recruited to stop an asteroid threatening Earth."
+  },
+  "LOTR (1978 Animated)": {
+    "year": 1978,
+    "cast": "Christopher Guard, William Squire, John Hurt",
+    "description": "A hobbit joins a fellowship to destroy a powerful ring."
+  },
+  "Godzilla (2014)": {
+    "year": 2014,
+    "cast": "Aaron Taylor-Johnson, Elizabeth Olsen, Bryan Cranston",
+    "description": "A soldier struggles to reunite with his family as giant creatures battle."
+  },
+  "Jurassic Park": {
+    "year": 1993,
+    "cast": "Sam Neill, Laura Dern, Jeff Goldblum",
+    "description": "Visitors to a dinosaur theme park fight to survive when its security fails.",
+    "poster": "https://image.tmdb.org/t/p/w342/oU7Oq2kFAAlGqbU4VoAE36g4hoI.jpg"
+  },
+  "Street Figher II": {
+    "year": 1994,
+    "cast": "Kōjiro Shimizu, Kenji Haga, Miki Fujitani",
+    "description": "Martial artists confront a criminal organization seeking to control powerful fighters."
+  },
+  "The Man In The Iron Mask": {
+    "year": 1998,
+    "cast": "Leonardo DiCaprio, Jeremy Irons, John Malkovich",
+    "description": "Retired musketeers plot to replace a tyrannical king with his imprisoned twin."
+  },
+  "The Three Musketeers": {
+    "year": 1993,
+    "cast": "Charlie Sheen, Kiefer Sutherland, Chris O'Donnell",
+    "description": "A young swordsman joins three musketeers to defend the French crown."
+  },
+  "Transformers (1986)": {
+    "year": 1986,
+    "cast": "Peter Cullen, Judd Nelson, Leonard Nimoy",
+    "description": "The Autobots face a planet-devouring enemy and a new generation of warriors."
+  },
+  "Volcano": {
+    "year": 1997,
+    "cast": "Tommy Lee Jones, Anne Heche",
+    "description": "An emergency official races to divert lava flowing through Los Angeles."
+  },
+  "Blue Streak": {
+    "year": 1999,
+    "cast": "Martin Lawrence, Luke Wilson",
+    "description": "A jewel thief poses as a detective to recover a hidden diamond."
+  },
+  "Bring It On": {
+    "year": 2000,
+    "cast": "Kirsten Dunst, Gabrielle Union, Eliza Dushku",
+    "description": "A cheerleading captain discovers her team's winning routines were stolen."
+  },
+  "Happy Gilmore": {
+    "year": 1996,
+    "cast": "Adam Sandler, Christopher McDonald",
+    "description": "A failed hockey player enters professional golf to save his grandmother's home."
+  },
+  "Little Nicky": {
+    "year": 2000,
+    "cast": "Adam Sandler, Patricia Arquette, Harvey Keitel",
+    "description": "The devil's timid son travels to Earth to stop his rebellious brothers."
+  },
+  "Mrs. Doubtfire": {
+    "year": 1993,
+    "cast": "Robin Williams, Sally Field, Pierce Brosnan",
+    "description": "A divorced father disguises himself as a nanny to spend time with his children."
+  },
+  "Never Been Kissed": {
+    "year": 1999,
+    "cast": "Drew Barrymore, David Arquette, Michael Vartan",
+    "description": "A reporter goes undercover at high school and revisits her awkward adolescence."
+  },
+  "Scary Movie": {
+    "year": 2000,
+    "cast": "Anna Faris, Regina Hall, Marlon Wayans",
+    "description": "Teenagers encounter a masked killer in a parody of horror films."
+  },
+  "South Park Bigger, Longer & Uncut": {
+    "year": 1999,
+    "cast": "Trey Parker, Matt Stone, Mary Kay Bergman",
+    "description": "A controversial movie sparks an international crisis for the boys of South Park."
+  },
+  "Spice World": {
+    "year": 1997,
+    "cast": "Spice Girls, Richard E. Grant",
+    "description": "The pop group navigates chaotic adventures before a major concert."
+  },
+  "A Night To Remember": {
+    "year": 1958,
+    "cast": "Kenneth More, Ronald Allen",
+    "description": "Passengers and crew confront disaster aboard the sinking Titanic."
+  },
+  "Cruel Intentions": {
+    "year": 1999,
+    "cast": "Sarah Michelle Gellar, Ryan Phillippe, Reese Witherspoon",
+    "description": "Wealthy step-siblings make a manipulative romantic wager."
+  },
+  "Fight Club": {
+    "year": 1999,
+    "cast": "Brad Pitt, Edward Norton, Helena Bonham Carter",
+    "description": "An insomniac and a charismatic stranger establish an underground fighting club.",
+    "poster": "https://image.tmdb.org/t/p/w342/pB8BM7pdSp6B6Ih7QZ4DrQ3PmJK.jpg"
+  },
+  "Footloose": {
+    "year": 1984,
+    "cast": "Kevin Bacon, Lori Singer, John Lithgow",
+    "description": "A teenager challenges a small town's ban on dancing."
+  },
+  "Girl Interrupted": {
+    "year": 1999,
+    "cast": "Winona Ryder, Angelina Jolie, Brittany Murphy",
+    "description": "A young woman forms complicated friendships during a psychiatric hospital stay."
+  },
+  "O": {
+    "year": 2001,
+    "cast": "Mekhi Phifer, Josh Hartnett, Julia Stiles",
+    "description": "Jealousy and manipulation threaten a high school basketball star in a modern Othello adaptation."
+  },
+  "Pearl  Harbor": {
+    "year": 2001,
+    "cast": "Ben Affleck, Josh Hartnett, Kate Beckinsale",
+    "description": "Two pilots and a nurse face love and loss amid the attack on Pearl Harbor."
+  },
+  "A Goofy Movie": {
+    "year": 1995,
+    "cast": "Bill Farmer, Jason Marsden",
+    "description": "Goofy takes his teenage son on a road trip to reconnect."
+  },
+  "Aladdin": {
+    "year": 1992,
+    "cast": "Scott Weinger, Robin Williams, Linda Larkin",
+    "description": "A street thief discovers a magical lamp and falls for a princess."
+  },
+  "Alvin & The Chipmunks": {
+    "year": 2007,
+    "cast": "Jason Lee, Justin Long, Matthew Gray Gubler",
+    "description": "Three singing chipmunks become unlikely pop stars."
+  },
+  "Cat In The Hat": {
+    "year": 2003,
+    "cast": "Mike Myers, Dakota Fanning, Spencer Breslin",
+    "description": "A mischievous talking cat turns two children's rainy day into chaos."
+  },
+  "Coraline": {
+    "year": 2009,
+    "cast": "Dakota Fanning, Teri Hatcher",
+    "description": "A girl discovers a seemingly perfect alternate world with sinister secrets.",
+    "poster": "https://image.tmdb.org/t/p/w342/4jeFXQYytChdZYE9JYO7Un87IlW.jpg"
+  },
+  "Fly Away Home": {
+    "year": 1996,
+    "cast": "Anna Paquin, Jeff Daniels",
+    "description": "A girl and her father teach orphaned geese to migrate."
+  },
+  "Free Willy": {
+    "year": 1993,
+    "cast": "Jason James Richter, Lori Petty",
+    "description": "A troubled boy befriends a captive orca and plans its escape."
+  },
+  "Gulliver's Travels": {
+    "year": 1939,
+    "cast": "Sam Parker, Pinto Colvig",
+    "description": "A shipwrecked traveler encounters tiny kingdoms on the brink of war."
+  },
+  "Homeward Bound": {
+    "year": 1993,
+    "cast": "Michael J. Fox, Sally Field, Don Ameche",
+    "description": "Three pets journey through the wilderness to find their family."
+  },
+  "Lilo & Stitch": {
+    "year": 2002,
+    "cast": "Daveigh Chase, Chris Sanders",
+    "description": "A lonely Hawaiian girl adopts an alien experiment and teaches him about family."
+  },
+  "Matilda": {
+    "year": 1996,
+    "cast": "Mara Wilson, Danny DeVito, Rhea Perlman",
+    "description": "A gifted girl uses extraordinary powers to challenge cruel adults."
+  },
+  "Mulan": {
+    "year": 1998,
+    "cast": "Ming-Na Wen, Eddie Murphy, BD Wong",
+    "description": "A young woman disguises herself as a soldier to protect her father."
+  },
+  "Oliver & Company": {
+    "year": 1988,
+    "cast": "Joey Lawrence, Billy Joel, Bette Midler",
+    "description": "An orphaned kitten joins a gang of streetwise dogs in New York."
+  },
+  "Pocahontas": {
+    "year": 1995,
+    "cast": "Irene Bedard, Mel Gibson",
+    "description": "A young Indigenous woman tries to prevent conflict between her people and English settlers."
+  },
+  "Richie Rich": {
+    "year": 1994,
+    "cast": "Macaulay Culkin, John Larroquette",
+    "description": "A wealthy boy must protect his family from a scheming executive."
+  },
+  "Rio": {
+    "year": 2011,
+    "cast": "Jesse Eisenberg, Anne Hathaway",
+    "description": "A domesticated macaw travels to Brazil and discovers adventure and love."
+  },
+  "Shrek": {
+    "year": 2001,
+    "cast": "Mike Myers, Eddie Murphy, Cameron Diaz",
+    "description": "An ogre and a talkative donkey set out to rescue a princess.",
+    "poster": "https://image.tmdb.org/t/p/w342/iB64vpL3dIObOtMZgX3RqdVdQDc.jpg"
+  },
+  "Tarzan": {
+    "year": 1999,
+    "cast": "Tony Goldwyn, Minnie Driver, Glenn Close",
+    "description": "A man raised by gorillas encounters humans and questions where he belongs."
+  },
+  "The Buttercream Gang": {
+    "year": 1992,
+    "cast": "Michael D. Weatherred, Brandon Blaser",
+    "description": "A group of friends struggles to help a boy who returns home changed by city life."
+  },
+  "The Hunchback of Notre Dame": {
+    "year": 1996,
+    "cast": "Tom Hulce, Demi Moore, Tony Jay",
+    "description": "A sheltered bell-ringer ventures into Paris and stands against injustice."
+  },
+  "The Land Before Time": {
+    "year": 1988,
+    "cast": "Gabriel Damon, Candace Hutson",
+    "description": "Young dinosaurs journey together toward a safe and fertile valley."
+  },
+  "The Lion King": {
+    "year": 1994,
+    "cast": "Matthew Broderick, James Earl Jones, Jeremy Irons",
+    "description": "A young lion must reclaim his place as king after a family tragedy.",
+    "poster": "https://image.tmdb.org/t/p/w342/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg"
+  },
+  "The Little Mermaid": {
+    "year": 1989,
+    "cast": "Jodi Benson, Pat Carroll",
+    "description": "A mermaid makes a dangerous bargain to experience life on land."
+  },
+  "Thumbelina": {
+    "year": 1994,
+    "cast": "Jodi Benson, Gary Imhoff",
+    "description": "A tiny girl searches for her fairy prince after being taken from home."
+  },
+  "Toy Story": {
+    "year": 1995,
+    "cast": "Tom Hanks, Tim Allen",
+    "description": "A cowboy toy feels threatened when a space ranger becomes his owner's favorite.",
+    "poster": "https://image.tmdb.org/t/p/w342/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg"
+  },
+  "A Christmas Story": {
+    "year": 1983,
+    "cast": "Peter Billingsley, Melinda Dillon, Darren McGavin",
+    "description": "A boy dreams of receiving a particular Christmas gift despite adults' warnings."
+  },
+  "A Flintstone Christmas": {
+    "year": 1977,
+    "cast": "Henry Corden, Jean Vander Pyl",
+    "description": "Fred and Barney help save Christmas when Santa is injured."
+  },
+  "Casper Meets Wendy": {
+    "year": 1998,
+    "cast": "Hilary Duff, Cathy Moriarty, Shelley Duvall",
+    "description": "A friendly ghost befriends a young witch fleeing an evil warlock."
+  },
+  "Grinch (Jim Carrey)": {
+    "year": 2000,
+    "cast": "Jim Carrey, Taylor Momsen",
+    "description": "A bitter recluse plots to steal Christmas from Whoville."
+  },
+  "Halloweentown": {
+    "year": 1998,
+    "cast": "Kimberly J. Brown, Debbie Reynolds",
+    "description": "A teenager discovers her magical heritage and helps protect a supernatural town."
+  },
+  "How The Grinch Stole Christmas": {
+    "year": 1966,
+    "cast": "Boris Karloff, June Foray",
+    "description": "A grouchy creature learns Christmas means more than presents."
+  },
+  "It Nearly Wasn't Christmas": {
+    "year": 1989,
+    "cast": "Charles Durning, Beverly Rowland",
+    "description": "Santa rediscovers the spirit of Christmas with help from a young girl."
+  },
+  "It's A Wonderful LIfe": {
+    "year": 1946,
+    "cast": "James Stewart, Donna Reed, Lionel Barrymore",
+    "description": "An angel shows a despairing man how much his life matters to others."
+  },
+  "Muppet Christmas Carol": {
+    "year": 1992,
+    "cast": "Michael Caine, Dave Goelz, Steve Whitmire",
+    "description": "The Muppets retell Dickens's story of a miser visited by Christmas spirits."
+  },
+  "Santa Claus Is Coming To Town": {
+    "year": 1970,
+    "cast": "Fred Astaire, Mickey Rooney",
+    "description": "A musical animated special imagines the origins of Santa Claus."
+  },
+  "Scrooge": {
+    "year": 1951,
+    "cast": "Alastair Sim, Mervyn Johns",
+    "description": "A miser confronts his past, present and future on Christmas Eve."
+  },
+  "Winnie The Pooh: Holiday Special": {
+    "year": null,
+    "cast": "",
+    "description": "Pooh and his friends celebrate the holidays in the Hundred Acre Wood."
+  },
+  "100 Nights Of Hero": {
+    "year": 2025,
+    "cast": "Emma Corrin, Maika Monroe, Nicholas Galitzine",
+    "description": "Two women use storytelling to resist a dangerous wager in a fantastical kingdom."
+  },
+  "All Of Us Strangers": {
+    "year": 2023,
+    "cast": "Andrew Scott, Paul Mescal, Claire Foy",
+    "description": "A lonely writer begins a romance while confronting memories of his deceased parents."
+  },
+  "But I'm A Cheerleader": {
+    "year": 1999,
+    "cast": "Natasha Lyonne, Clea DuVall, RuPaul",
+    "description": "A cheerleader sent to a conversion camp discovers love and embraces her identity."
+  },
+  "Carol": {
+    "year": 2015,
+    "cast": "Cate Blanchett, Rooney Mara",
+    "description": "Two women develop a forbidden romance in 1950s New York."
+  },
+  "If These Walls Could Talk 2": {
+    "year": 2000,
+    "cast": "Vanessa Redgrave, Michelle Williams, Ellen DeGeneres",
+    "description": "Three stories explore lesbian relationships across different decades."
+  },
+  "Imagine Me & You": {
+    "year": 2005,
+    "cast": "Piper Perabo, Lena Headey, Matthew Goode",
+    "description": "A newlywed falls for the florist she meets on her wedding day."
+  },
+  "On Swift Horses": {
+    "year": 2025,
+    "cast": "Daisy Edgar-Jones, Jacob Elordi, Will Poulter",
+    "description": "A married woman and her brother-in-law pursue secret desires in postwar America."
+  },
+  "The Incredibly True Adventure of Two Women In Love": {
+    "year": 1995,
+    "cast": "Laurel Holloman, Nicole Ari Parker",
+    "description": "Two teenage girls from different backgrounds navigate first love."
+  },
+  "Across The Universe": {
+    "year": 2007,
+    "cast": "Jim Sturgess, Evan Rachel Wood",
+    "description": "Young lovers navigate the turbulence of the 1960s through Beatles songs."
+  },
+  "Grease": {
+    "year": 1978,
+    "cast": "John Travolta, Olivia Newton-John",
+    "description": "Summer sweethearts reunite at high school and struggle with social expectations."
+  },
+  "Grease 2": {
+    "year": 1982,
+    "cast": "Michelle Pfeiffer, Maxwell Caulfield",
+    "description": "A British student reinvents himself to impress a Pink Lady."
+  },
+  "Hairspray": {
+    "year": 2007,
+    "cast": "Nikki Blonsky, John Travolta, Queen Latifah",
+    "description": "A teenager challenges segregation on a Baltimore television dance show."
+  },
+  "Little Shop Of Horrors": {
+    "year": 1986,
+    "cast": "Rick Moranis, Ellen Greene, Steve Martin",
+    "description": "A florist's assistant discovers a plant with a disturbing appetite."
+  },
+  "Rent": {
+    "year": 2005,
+    "cast": "Anthony Rapp, Adam Pascal, Rosario Dawson",
+    "description": "Artists and friends confront love, poverty and HIV/AIDS in New York."
+  },
+  "Sweeney Todd": {
+    "year": 2007,
+    "cast": "Johnny Depp, Helena Bonham Carter",
+    "description": "A vengeful barber returns to London and forms a sinister partnership."
+  },
+  "The Rocky Horror Picture Show": {
+    "year": 1975,
+    "cast": "Tim Curry, Susan Sarandon, Barry Bostwick",
+    "description": "A stranded couple encounters an eccentric scientist and his unusual guests."
+  },
+  "West Side Story": {
+    "year": 2021,
+    "cast": "Rachel Zegler, Ansel Elgort, Ariana DeBose",
+    "description": "Young lovers are caught between rival street gangs in New York."
+  },
+  "Wicked": {
+    "year": 2024,
+    "cast": "Cynthia Erivo, Ariana Grande",
+    "description": "Two unlikely friends navigate prejudice and power in the land of Oz.",
+    "poster": "https://image.tmdb.org/t/p/w342/xDGbZ0JJ3mYaGKy4Nzd9Kph6M9L.jpg"
+  },
+  "Wicked: For Good": {
+    "year": 2025,
+    "cast": "Cynthia Erivo, Ariana Grande",
+    "description": "Elphaba and Glinda face the consequences of their choices as Oz changes around them."
+  },
+  "A Star Is  Born": {
+    "year": 2018,
+    "cast": "Lady Gaga, Bradley Cooper",
+    "description": "A seasoned musician helps a talented singer rise to fame while battling his own demons."
+  },
+  "A Walk To Remember": {
+    "year": 2002,
+    "cast": "Mandy Moore, Shane West",
+    "description": "A rebellious teenager falls for a compassionate classmate with a secret."
+  },
+  "Practical Magic": {
+    "year": 1998,
+    "cast": "Sandra Bullock, Nicole Kidman",
+    "description": "Two witch sisters confront a family curse and a dangerous supernatural threat."
+  },
+  "Sleepless In Seattle": {
+    "year": 1993,
+    "cast": "Tom Hanks, Meg Ryan",
+    "description": "A widower's radio appearance inspires a woman across the country to seek him out."
+  },
+  "The Notebook": {
+    "year": 2004,
+    "cast": "Ryan Gosling, Rachel McAdams",
+    "description": "A couple's enduring love is tested by class differences and the passage of time."
+  },
+  "Titanic": {
+    "year": 1997,
+    "cast": "Leonardo DiCaprio, Kate Winslet",
+    "description": "Two passengers from different social classes fall in love aboard the doomed ocean liner.",
+    "poster": "https://image.tmdb.org/t/p/w342/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg"
+  },
+  "Blair Witch 2: Book Of Shadows": {
+    "year": 2000,
+    "cast": "Jeffrey Donovan, Erica Leerhsen",
+    "description": "Fans of the Blair Witch legend experience disturbing events after visiting the woods."
+  },
+  "Deep Rising": {
+    "year": 1998,
+    "cast": "Treat Williams, Famke Janssen",
+    "description": "Mercenaries board a luxury liner overrun by monstrous sea creatures."
+  },
+  "Final Destination": {
+    "year": 2000,
+    "cast": "Devon Sawa, Ali Larter",
+    "description": "Survivors of a predicted disaster discover that death is still pursuing them."
+  },
+  "Ghost Ship": {
+    "year": 2002,
+    "cast": "Julianna Margulies, Gabriel Byrne",
+    "description": "A salvage crew discovers a mysterious abandoned ocean liner."
+  },
+  "Gone": {
+    "year": 2012,
+    "cast": "Amanda Seyfried, Jennifer Carpenter",
+    "description": "A woman searches for her missing sister while confronting her own traumatic past."
+  },
+  "House On Haunted Hill": {
+    "year": 1959,
+    "cast": "Vincent Price, Carol Ohmart",
+    "description": "Guests are offered money to spend a night in a supposedly haunted mansion."
+  },
+  "The Descent": {
+    "year": 2005,
+    "cast": "Shauna Macdonald, Natalie Mendoza",
+    "description": "A group of cave explorers becomes trapped underground with terrifying creatures."
+  },
+  "Resident Evil": {
+    "year": 2002,
+    "cast": "Milla Jovovich, Michelle Rodriguez",
+    "description": "A security team enters an underground laboratory after a deadly outbreak."
+  },
+  "ALF": {
+    "year": 1986,
+    "genre": "Comedy",
+    "cast": "Paul Fusco, Max Wright, Anne Schedeen",
+    "description": "A wisecracking alien crash-lands in a suburban family's garage and turns their everyday lives upside down."
+  },
+  "Animaniacts": {
+    "year": 1993,
+    "cast": "Rob Paulsen, Jess Harnell, Tress MacNeille",
+    "description": "The Warner siblings and a cast of eccentric characters star in irreverent animated sketches."
+  },
+  "Beetlejuice": {
+    "year": 1989,
+    "cast": "Stephen Ouimette, Alyson Court",
+    "description": "Lydia and her ghostly friend explore the bizarre Neitherworld."
+  },
+  "Bill Nye The Science Guy": {
+    "year": 1993,
+    "cast": "Bill Nye",
+    "description": "Energetic demonstrations and comedy make scientific concepts accessible."
+  },
+  "Family Matters": {
+    "year": 1989,
+    "cast": "Reginald VelJohnson, Jaleel White, Jo Marie Payton",
+    "description": "A Chicago family navigates everyday life and their eccentric neighbor Steve Urkel."
+  },
+  "Godzilla": {
+    "year": null,
+    "cast": "",
+    "description": "Animated adventures follow the giant monster and its encounters with other creatures."
+  },
+  "Life Goes On": {
+    "year": 1989,
+    "cast": "Bill Smitrovich, Patti LuPone, Chris Burke",
+    "description": "A suburban family faces everyday challenges, relationships and social issues."
+  },
+  "Punky Brewster": {
+    "year": 1984,
+    "cast": "Soleil Moon Frye, George Gaynes",
+    "description": "A spirited young girl finds a new home with a gruff but caring foster father."
+  },
+  "Reaper": {
+    "year": 2007,
+    "cast": "Bret Harrison, Tyler Labine, Ray Wise",
+    "description": "A young man discovers his parents sold his soul and must capture escaped souls for the devil."
+  },
+  "Saved By The Bell": {
+    "year": 1989,
+    "cast": "Mark-Paul Gosselaar, Tiffani Thiessen, Mario Lopez",
+    "description": "Friends at Bayside High navigate school, romance and teenage schemes."
+  },
+  "Salute Your Shorts": {
+    "year": 1991,
+    "cast": "Kirk Baily, Danny Cooksey, Michael Bower",
+    "description": "Campers at Camp Anawanna get into mischief and learn about friendship."
+  },
+  "Star Trek": {
+    "year": null,
+    "cast": "",
+    "description": "Starfleet crews explore space, encounter new civilizations and confront ethical dilemmas."
+  }
 }
